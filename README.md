@@ -172,8 +172,8 @@ The CLI provides clear error messages for common scenarios:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## support me
+## Sponsor
 
 If you find this tool helpful, please consider supporting me:
 
-- **Buy Me a Coffee**: [PayPal](https://paypal.me/3MMaR652)
+- **Buy Me a Coffee**: <a href="https://paypal.me/3MMaR652" target="_blank">PayPal</a>
