@@ -1,0 +1,33 @@
+{
+  "name": "ctx-prompt-cli",
+  "version": "1.12.0",
+  "description": "Context-aware CLI tool for prompt generation",
+  "scripts": {
+    "test": "vitest"
+  },
+  "bin": {
+    "ctx": "./src/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "cli",
+    "prompt",
+    "context",
+    "rules"
+  ],
+  "author": "iammarjamal",
+  "email": "ammar.jamal.jadallah@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iammarjamal/ctx-prompt-cli.git"
+  },
+  "dependencies": {
+    "fs-extra": "^11.0.0",
+    "inquirer": "^9.0.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "vitest": "^0.34.6"
+  }
+}
